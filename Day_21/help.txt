@@ -1,0 +1,5 @@
+Required parts of the pong game:
+* main.py
+* scoreboard.py
+* ball.py
+* paddle.py
