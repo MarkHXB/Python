@@ -3,8 +3,8 @@ import datetime as dt
 import smtplib
 
 #fourth
-MY_MAIL = "testingerG22@gmail.com"
-MY_PASSWORD = "centhon7#"
+MY_MAIL = "xxxx@gmail.com"
+MY_PASSWORD = "xxxx"
 SMTP_PROVIDE = "smtp.gmail.com"
 
 #first
