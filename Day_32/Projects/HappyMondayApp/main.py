@@ -18,7 +18,7 @@ if weekday == 6:
         connection = smtplib.SMTP(SMTP_PROVIDE)
         connection.starttls()
         connection.login(user=MY_MAIL,password=MY_PASSWORD)
-        connection.sendmail(from_addr=MY_MAIL, to_addrs="testingerY22@yahoo.com",
+        connection.sendmail(from_addr=MY_MAIL, to_addrs="xxxx@yahoo.com",
                             msg=f"Subject:Happy Monday!\n\n{quote}")
         connection.close()
         print("The mail sent successfully")
